@@ -1,0 +1,16 @@
+
+.classpath
+
+.idea/.name
+
+*.xml
+
+.project
+
+*.prefs
+
+*.u1conflict
+
+*.iml
+
+out/production/MatrixOp/MatrixOp.class
